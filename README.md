@@ -1,3 +1,6 @@
+# Relationship Finder 👨‍👩‍👧‍👦
+
+## What it is
 Relationship Finder is a Python-based console application that calculates and identifies the exact familial relationship between two individuals within a predefined family tree. By inputting two names, the system computes their connection and outputs their specific relationship status (e.g., "Person A is the uncle of Person B" or "Person A is the granddaughter of Person B").
 
 ## Tech Stack
